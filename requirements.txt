@@ -1,4 +1,1 @@
 python-telegram-bot==22.3
-metaapi-cloud-sdk
-pandas
-ta
